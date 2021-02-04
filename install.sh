@@ -8,6 +8,7 @@ pkg install openssh -y
 pkg install php -y
 pkg install curl -y
 pkg install mc -y
+pkg install wget -y
 pkg install figlet -y
 pkg install libcurl -y
 pkg install toilet -y
