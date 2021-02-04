@@ -1,16 +1,3 @@
-Cara Hack Kamera HP dengan Aplikasi Termux
-3 menit
-Cara Hack Kamera HP – Kamera pada ponsel pastinya dimanfaatkan oleh banyak orang untuk mengambil foto maupun video yang nantinya disimpan guna koleksi pribadi. Sesuatu yang pastinya akan membuat banyak orang ingin menjaga foto dan video pribadi tersebut karena tergolong privasi.
-
-Pembahasan
-Cara Hack Kamera HP dengan Termux
-1. Install Script HackCam Termux
-2. Mulai Jalankan Script Hack Kamera Ponsel
-3. Mulai Lakukan Tahap Sadap Kamera
-4. Bagikan Link pada Target
-Cara Hack Kamera HP dengan Termux
-Cara Hack Kamera HP Termux
-Cara Hack Kamera HP Termux
 1. Install Script HackCam Termux
 Langkah pertama yang bisa Anda lakukan untuk menghack kamera hp si target adalah dengan menginstall script hack kamera Termux Spy seperti yang satu ini. Soalnya Anda tidak akan bisa melakukan penyadapan pada ponsel kamera si target tanpa terlebih dulu menginstall script yang satu ini.
 
@@ -48,7 +35,6 @@ $bash HackCam.sh
 Apabila Anda sudah melakukannya dengan tepat maka tidak berlangsung lama akan segera muncul tampilan awal script kamera saycheese. Tampilan awal script kamera ini sendiri juga menjadi pertanda bahwa sejauh ini Anda sudah melakukan langkah-langkah dengan tepat.
 
 Soalnya jika sudah muncul tanda yang satu ini maka Anda sudah bisa melangkah ke tahap yang berikutnya.
-
 
 3. Mulai Lakukan Tahap Sadap Kamera
 Nantinya akan muncul tampilan yang membuat Anda mesti memilih di antara dua pilihan. Dari dua pilihan tersebut maka sebaiknya Anda menjatuhkan pilhan pada server.net saja yang lebih memudahkan.
